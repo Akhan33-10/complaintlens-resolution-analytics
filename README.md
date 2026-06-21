@@ -65,7 +65,7 @@ The analysis spans national trends, product-level resolution patterns, and a foc
 
 ## 📊 Dashboard Overview
 
-![ComplaintLens Dashboard](screenshots/dashboard.png)
+![ComplaintLens Dashboard](ComplaintLens_Dashboard.png)
 
 **Top row — National Context (KPIs):**
 Total Complaints (62,516), Resolution Rate (31.9%), Timely Response Rate (93.8%), and Customers At Risk (11,722) — the last KPI ties the dashboard's biggest finding directly into the header, before a viewer reads any supporting text.
